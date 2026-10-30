@@ -40,6 +40,7 @@ A curated list of awesome [trino](https://trinosql.io/) software, libraries, too
 - [trinogres](https://github.com/treasure-data/trinogres) - PostgreSQL protocol gateway for trino
 - https://github.com/toyama0919/embulk-input-trino
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [OLake Go](https://github.com/datazip-inc/olake) - High-performance, open-source EL (Extract-Load) platform that bridges operational databases and open lakehouse storage, writing Apache Iceberg tables or Parquet files on Amazon S3, queryable with trino
 
 ## Docker Images
 - [https://github.com/starburstdata/docker-images](https://github.com/starburstdata/docker-images)
